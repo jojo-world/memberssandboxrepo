@@ -16,3 +16,12 @@ new line
 24 line
 
 added line 1 for merge1
+9th line
+10th line
+11th line
+12th line
+13th lline
+14th line
+15th line
+
+added new line 1 for merge2 branch
